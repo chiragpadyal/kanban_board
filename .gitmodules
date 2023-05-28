@@ -2,8 +2,8 @@
 	path = shiptivitas-3
 	url = git@github.com:chiragpadyal/shiptivitas-3.git
 [submodule "shipvistas-1"]
-	path = shipvistas-1
+	path = shiptivitas-1
 	url = git@github.com:chiragpadyal/shiptivitas-1.git
 [submodule "shipvistas-2"]
-	path = shipvistas-2
+	path = shiptivitas-2
 	url = git@github.com:chiragpadyal/shiptivitas-2.git
