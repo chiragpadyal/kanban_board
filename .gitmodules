@@ -1,0 +1,6 @@
+[submodule "shiptivitas-3"]
+	path = shiptivitas-3
+	url = git@github.com:chiragpadyal/shiptivitas-3.git
+[submodule "shipvistas-1"]
+	path = shipvistas-1
+	url = git@github.com:chiragpadyal/shiptivitas-1.git
